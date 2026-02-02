@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">用药管家</string>
+    <string name="add_medicine">添加药品</string>
+    <string name="edit_medicine">编辑药品</string>
+    <string name="medicine_name">药品名称</string>
+    <string name="medicine_purpose">用途</string>
+    <string name="dosage">每次剂量</string>
+    <string name="times_per_day">每日次数</string>
+    <string name="reminder_times">提醒时间</string>
+    <string name="medication_period">用药周期</string>
+    <string name="start_date">开始日期</string>
+    <string name="end_date">结束日期</string>
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+    <string name="delete">删除</string>
+    <string name="calendar">日历</string>
+    <string name="medication_history">用药记录</string>
+    <string name="taken">已服用</string>
+    <string name="missed">未服用</string>
+    <string name="reminder_title">用药提醒</string>
+    <string name="reminder_message">该吃药了：%1$s</string>
+    <string name="notification_channel_name">用药提醒</string>
+    <string name="notification_channel_description">药品服用提醒通知</string>
+</resources>
